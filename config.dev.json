@@ -25,14 +25,13 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61584608305717","61576770011127","100063239341269"
+    "61584608305717","100063239341269"
   ],
   "developer": [
-    "61584608305717","61576770011127","100063239341269"
+    "61584608305717","100063239341269"
   ],
   "vipuser": [
     "61584608305717",
-    "61576770011127",
     "100063239341269"
   ],
   "reactBy": {
@@ -46,6 +45,9 @@
   },
   "nickNameBot": "💧 ➳ᴹᴿ᭄ᏞᏫᏁᎬᏞᎽ ƁƆȚ-∆丨倫💧",
   "prefix": "?",
+  "noPrefix": {
+    "enable": false,
+    "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Christus:voldigo225@cluster0.gykt2by.mongodb.net/?appName=Cluster0",
