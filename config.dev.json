@@ -45,9 +45,7 @@
   },
   "nickNameBot": "💧 ➳ᴹᴿ᭄ᏞᏫᏁᎬᏞᎽ ƁƆȚ-∆丨倫💧",
   "prefix": "#",
-  "noPrefix": {
-    "enable": false,
-    "notes": "true = only bot admins can use commands without prefix | false = everyone must use prefix"
+  "enable": "false",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://Christus:voldigo225@cluster0.gykt2by.mongodb.net/?appName=Cluster0",
